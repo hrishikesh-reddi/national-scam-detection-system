@@ -1,0 +1,5 @@
+{
+  "name": "National Scam Detection System",
+  "description": "AI-powered security agent for detecting fraud in calls, SMS, and URLs.",
+  "requestFramePermissions": []
+}
